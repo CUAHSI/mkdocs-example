@@ -1,4 +1,4 @@
-# title: Critical Zone Collaborative Network Data Best Practices
+# Critical Zone Collaborative Network Data Best Practices
 
 This repository contains best practices developed by the Critical Zone Collaborative Network (CZ Net) for sharing data related to the Critical Zone.
 
@@ -8,11 +8,11 @@ For overall data sharing and publication guidance, please read the following fir
 
 For guidance on specific data types, please consultt the following best practice guides:
 
-1. [Sharing Samples and Sample Metadata](/docsy-example/docs/sample_data/registering_samples)
-2. [Sharing Laboratory Analytical Data](/docsy-example/docs/sample_data/sample_data)
-3. [Sharing Geospatial Data](/docsy-example/docs/geospatial_data/geospatial_data)
-4. [Sharing Environmental Time Series Data](/docsy-example/docs/time_series_data/time_series_data)
-5. [Sharing Multiple Data Types Together](/docsy-example/docs/multiple_data_types/multiple_data_types)
+1. [Sharing Samples and Sample Metadata](sample_data/registering_samples)
+2. [Sharing Laboratory Analytical Data](sample_data/sample_data)
+3. [Sharing Geospatial Data](geospatial_data/geospatial_data)
+4. [Sharing Environmental Time Series Data](time_series_data/time_series_data)
+5. [Sharing Multiple Data Types Together](multiple_data_types/multiple_data_types)
 
 ## License
 
