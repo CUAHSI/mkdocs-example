@@ -6,6 +6,8 @@ theme:
 plugins:
   - mkdocstrings
 
+repo_url: https://github.com/CUAHSI/mkdocs-example
+
 nav:
   - About: index.md
   - Data Best Practices:
