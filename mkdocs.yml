@@ -8,16 +8,9 @@ plugins:
 
 nav:
   - About: index.md
-  - Base:
-    - Cuahsi Base: cuahsi_base/cuahsi_base.md
-    - Site Element: cuahsi_base/site_element.md
-    - Utils: cuahsi_base/utils.md
-  - DSP: 
-    - DSP Tests: dsp/dsp_tests.md
-    - DSP Macros: dsp/dsp_macros.md
-  - Hydroshare:
-    - Hydroshare Tests: hydroshare/hydroshare_tests.md
-    - Hydroshare Macros: hydroshare/hs_macros.md
-  - Hydroclient:
-    - Hydroclient Tests: hydroclient/hydroclient_tests.md
-    - Hydroclient Macros: hydroclient/hc_macros.md
+  - Data Best Practices:
+    - Sharing Samples and Sample Metadata: sample_data/registering_samples.md
+    - Sharing Laboratory Analytical Data: sample_data/sample_data
+    - Sharing Geospatial Data: geospatial_data/geospatial_data
+    - Sharing Environmental Time Series Data: time_series_data/time_series_data
+    - Sharing Multiple Data Types Together: multiple_data_types/multiple_data_types
