@@ -1,7 +1,7 @@
 site_name: CUAHSI Documentation Portal
 
 theme:
-  name: material
+  name: "material"
 
 plugins:
   - mkdocstrings
@@ -10,7 +10,7 @@ nav:
   - About: index.md
   - Data Best Practices:
     - Sharing Samples and Sample Metadata: sample_data/registering_samples.md
-    - Sharing Laboratory Analytical Data: sample_data/sample_data
-    - Sharing Geospatial Data: geospatial_data/geospatial_data
-    - Sharing Environmental Time Series Data: time_series_data/time_series_data
-    - Sharing Multiple Data Types Together: multiple_data_types/multiple_data_types
+    - Sharing Laboratory Analytical Data: sample_data/sample_data.md
+    - Sharing Geospatial Data: geospatial_data/geospatial_data.md
+    - Sharing Environmental Time Series Data: time_series_data/time_series_data.md
+    - Sharing Multiple Data Types Together: multiple_data_types/multiple_data_types.md
