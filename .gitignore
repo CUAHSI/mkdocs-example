@@ -1,0 +1,17 @@
+propsfile
+*.bak
+*.log
+__pycache__
+.idea/
+.vscode
+
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+.vscode/
+venv
+site
+
+debug
