@@ -1,7 +1,7 @@
-site_name: CUAHSI QA Documentation
+site_name: CUAHSI Documentation Portal
 
 theme:
-  name: "material"
+  name: material
 
 plugins:
   - mkdocstrings
