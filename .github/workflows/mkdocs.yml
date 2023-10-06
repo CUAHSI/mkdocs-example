@@ -19,4 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # EXTRA_PACKAGES: 
           # GITHUB_DOMAIN: 
+          CONFIG_FILE: mkdocs.yml
           REQUIREMENTS: requirements-mkdocs.txt
