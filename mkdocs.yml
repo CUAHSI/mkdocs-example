@@ -5,14 +5,18 @@ theme:
 
 plugins:
   - mkdocstrings
+  - mkdocs-jupyter
 
 repo_url: https://github.com/CUAHSI/mkdocs-example
 
 nav:
-  - About: index.md
-  - Data Best Practices:
+  - About: about.md
+  - CZ Data Best Practices:
     - Sharing Samples and Sample Metadata: sample_data/registering_samples.md
     - Sharing Laboratory Analytical Data: sample_data/sample_data.md
     - Sharing Geospatial Data: geospatial_data/geospatial_data.md
     - Sharing Environmental Time Series Data: time_series_data/time_series_data.md
     - Sharing Multiple Data Types Together: multiple_data_types/multiple_data_types.md
+  - Some Notebooks:
+    - HSClient: Basic_Operations.ipynb
+
