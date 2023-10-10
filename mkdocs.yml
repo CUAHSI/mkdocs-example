@@ -11,7 +11,7 @@ plugins:
   - mkdocs-jupyter
   - search
 
-# repo_url: https://github.com/CUAHSI/mkdocs-example
+repo_url: https://github.com/CUAHSI/mkdocs-example
 
 nav:
   - About: about.md
